@@ -11,6 +11,12 @@
   Команда позволяет 
 * git status
 
+## Работа с ветками в Git
+
+- git branch
+- git branch branch_name
+- git checkout branch_name
+
 ## Списки
 1
 2
