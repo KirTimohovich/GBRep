@@ -60,6 +60,7 @@ sudo yum install git
 - git checkout branch_name
 
 ## Процесс работы с Git
+Не стоит после каждого изменения файла делать commit. Чаще всего их создают, когда:
 
 ## Списки
 1
