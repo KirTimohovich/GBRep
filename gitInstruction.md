@@ -115,3 +115,8 @@ git remote
 git fetch
 git push
 git pull
+
+
+Для облегчения обучения, оставлю вам ссылку на бесплатный тренажер по Git.
+
+https://learngitbranching.js.org/
