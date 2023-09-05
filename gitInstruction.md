@@ -237,5 +237,5 @@ GitHub нужен не только для работы со своими пр
 Скрин конфликта:
 ![![DomZadanie_conflict.jpg](DomZadanie_conflict.jpg)]
 
-
+Изменение на гитхабе
 
