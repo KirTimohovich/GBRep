@@ -53,6 +53,11 @@ sudo yum install git
 #Кавычки оставляем
 git config --global user.name "<ваше_имя>"
 
+## Теперь установим email. 
+Принцип тот же.
+git config --global user.email "<адрес_почты@email.com>"
+
+
   Команда позволяет 
 * git status
 
@@ -71,15 +76,6 @@ git add <имя_файла>
 git commit -m "<комментарий>"
 
 Отлично. Вы создали свой первый репозиторий и заполнили его первым commit.
-
-## Работа с ветками в Git
-
-- git branch
-- git branch branch_name
-- git checkout branch_name
-## Теперь установим email. 
-Принцип тот же.
-git config --global user.email "<адрес_почты@email.com>"
 
 ## Создание репозитория
 Теперь вы готовы к работе с Git локально на компьютере.
