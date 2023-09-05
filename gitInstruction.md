@@ -103,4 +103,15 @@ sudo yum install git
 
 - Как инициализировать репозиторий и создать commit через консоль
 
+Существует ещё множество команд, например:
 
+git help # справка по всем командам
+git clone
+git status
+git branch
+git checkout
+git merge
+git remote
+git fetch
+git push
+git pull
