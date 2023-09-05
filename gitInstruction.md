@@ -42,22 +42,8 @@ sudo apt install git
 #CentOS
 sudo yum install git
 
-## Базовые команды
+## Настройка
 
-* git init
-
-Команда инициирует старт работы с   Git
-
-* git commit
-
-  Команда позволяет 
-* git status
-
-## Работа с ветками в Git
-
-- git branch
-- git branch branch_name
-- git checkout branch_name
 
 ## Списки
 1
