@@ -53,6 +53,10 @@ sudo yum install git
 #Кавычки оставляем
 git config --global user.name "<ваше_имя>"
 
+## Теперь установим email. 
+Принцип тот же.
+git config --global user.email "<адрес_почты@email.com>"
+
 ## Списки
 1
 2
